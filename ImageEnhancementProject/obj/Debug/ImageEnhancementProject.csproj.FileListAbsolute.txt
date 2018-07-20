@@ -1,0 +1,8 @@
+D:\Project\Visual Studio\ImageEnhancementProject\ImageEnhancementProject\bin\Debug\ImageEnhancementProject.exe.config
+D:\Project\Visual Studio\ImageEnhancementProject\ImageEnhancementProject\bin\Debug\ImageEnhancementProject.exe
+D:\Project\Visual Studio\ImageEnhancementProject\ImageEnhancementProject\bin\Debug\ImageEnhancementProject.pdb
+D:\Project\Visual Studio\ImageEnhancementProject\ImageEnhancementProject\obj\Debug\ImageEnhancementProject.Form1.resources
+D:\Project\Visual Studio\ImageEnhancementProject\ImageEnhancementProject\obj\Debug\ImageEnhancementProject.Properties.Resources.resources
+D:\Project\Visual Studio\ImageEnhancementProject\ImageEnhancementProject\obj\Debug\ImageEnhancementProject.csproj.GenerateResource.Cache
+D:\Project\Visual Studio\ImageEnhancementProject\ImageEnhancementProject\obj\Debug\ImageEnhancementProject.exe
+D:\Project\Visual Studio\ImageEnhancementProject\ImageEnhancementProject\obj\Debug\ImageEnhancementProject.pdb
